@@ -12,10 +12,10 @@ The extension enables the user to select the data via the slider.
 * Add Dimension(should be numerical) to the Slider
 * In the Settings:
            
-           * Set Max and Min of the Slider
-           * Create 2 temp variables in qlik (e.g "vHigh", "vLow")
-           * Give the variable names to "Variable High" and "Variable Low"
-           * Define CSS: to change color, use: --range-color:green;
-           * If the dimension refers to data, tick the Date Format option, which would convert the integers to date
+       1. Set Max and Min of the Slider
+       2. Create 2 temp variables in qlik (e.g "vHigh", "vLow")
+       3. Give the variable names to "Variable High" and "Variable Low"
+       4. Define CSS: to change color, use: --range-color:green;
+       5. If the dimension refers to data, tick the Date Format option, which would convert the integers to date
 * Then
 * Finally
