@@ -17,5 +17,8 @@ The extension enables the user to select the data via the slider.
        3. Give the variable names to "Variable High" and "Variable Low"
        4. Define CSS: to change color, use: --range-color:green;
        5. If the dimension refers to data, tick the Date Format option, which would convert the integers to date
+![alt text](https://github.com/nfire11/QTiny_Slider/blob/master/sample1.png "Sample")
+
+
 * Then
 * Finally
