@@ -7,5 +7,10 @@ The extension enables the user to select the data via the slider.
   * Custom Min and Max value
   * Data Selection via Slider 
   * Custom CSS
-  
-  
+
+## Usage:
+* Add Dimension(should be numerical) to the Slider
+* In the Settings:
+   1. 
+* Then
+* Finally
