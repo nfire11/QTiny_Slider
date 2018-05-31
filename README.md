@@ -18,7 +18,5 @@ The extension enables the user to select the data via the slider.
        4. Define CSS: to change color, use: --range-color:green;
        5. If the dimension refers to data, tick the Date Format option, which would convert the integers to date
 ![alt text](https://github.com/nfire11/QTiny_Slider/blob/master/sample1.png "Sample")
+##### For Date, Create a column in data load script via num(date) to convert them into numbers.
 
-
-* Then
-* Finally
