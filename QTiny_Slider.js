@@ -44,14 +44,14 @@ define( [ "jquery","qlik"],function ($,qlik) {'use strict';
 	                            },							
 	                        TextBoxA: {
 	                            ref: "valLow",
-	                            label: "Low",
+	                            label: "Min",
 	                            type: "string",
 	                            //component: "textarea",
 	                            defaultValue: "undefined",
 	                            },							
 	                        TextBoxB: {
 	                            ref: "valHigh",
-	                            label: "High",
+	                            label: "Max",
 	                            type: "string",
 	                            //component: "textarea",
 	                            defaultValue: "undefined",
